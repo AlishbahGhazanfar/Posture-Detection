@@ -1,0 +1,6 @@
+### Requirements are:
+
+Pandas
+Opencv
+Mediapipe
+scikit-learn
